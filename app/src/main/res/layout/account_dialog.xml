@@ -42,7 +42,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:ems="10"
+        android:ems="12"
         android:hint="Initial Balance (Optional)"
         android:inputType="numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
